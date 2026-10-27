@@ -1,0 +1,6 @@
+{
+  "name": "Cache",
+  "version": "0.1.0",
+  "description": "Shows minutes left until the prompt cache cools and tokens in context; click for details and a Compact button.",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "apple" },
+  "plugins": [
+    { "name": "Context", "source": "./Context" },
+    { "name": "Cache", "source": "./Cache" }
+  ]
+}

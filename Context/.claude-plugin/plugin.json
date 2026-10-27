@@ -1,0 +1,5 @@
+{
+  "name": "Context",
+  "version": "0.1.0",
+  "description": "Context window fill of this session, shown as a status line under the prompt."
+}
