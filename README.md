@@ -7,6 +7,8 @@ Two small Claude Code mods (plugins) that show status under the prompt:
 
 ![Footer with Context and Cache](docs/footer.png)
 
+![Footer in a live session](docs/footer-live.png)
+
 ## Install
 
 ```bash
